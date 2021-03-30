@@ -1,6 +1,13 @@
 # folders
 .vscode/
+/unit_outputs/*
+!/unit_outputs/
+/integration_outputs/*
+!/integration_outputs/
 
 # files
+fourier.o
 unit_test
+image.o
 integration_test
+integration_test.o
